@@ -1,4 +1,4 @@
-# iris-classifier-hackathon
+# iris-classifier- Gen Ai Exchange Hackathon
 A simple machine learning project for hackathon: Iris flower classification using SVM with preprocessing and evaluation
 
 ml-hackathon-project/
